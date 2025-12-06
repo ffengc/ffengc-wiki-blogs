@@ -1,19 +1,22 @@
-# NP-is-not-that-Hard
+# 我的博客
 
-[中文](./REAMD-CN.md) | [English](./README.md)
+[中文](./README-CN.md) | [English](./README.md)
 
-> CSDN博客: [https://blog.csdn.net/Yu_Cblog](https://blog.csdn.net/Yu_Cblog)
+## 作者的话
 
-## 为什么我想写这一篇博客
+我其实从四五年前，刚上大学开始写博客，之前写的大部分博客都在CSDN平台上：[https://blog.csdn.net/Yu_Cblog](https://blog.csdn.net/Yu_Cblog)
 
-这真的是为热爱买单。今年第一年来到美国上学，CSCI570这门课是我们的必修课，这门课真的有难度。这门课从一开始的 Matching Theory, 到后面的动态规划，网络流问题等等等等，笔记和我学习时用到的代码，我都总结到[这个仓库](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC)里了。在学期的末尾我们开始学习 Tractability & Computational Compleity Classes，所以开始接触了P/NP/NP完全/NP难等概念。
+现在开始慢慢统一整理到这个仓库中来。
 
-其实这些概念在很多年前已经接触和听说过了，但之前一直没有很好的去理解这些概念，只觉得这些概念好像很高级，有格调。学完CSCI570这门课后，我真真切切的体会到了，之前4-5年学习的算法，真真正正是这门学问的冰山一角而已。同时，学完这门课之后，我对算法也更热爱了。
+作者的话这部分，我后面也会完善好的。
 
-今天开始写这一份博客，把NP这部分内容记录下来。CSCI570我真的学到不少东西，在本科期间，或者一些其他课程，我对于“一门课学完就忘记”我其实是无所谓的，但这门课，我真的不愿意忘记这些知识，我很少对一门课有高评价，除非我真的很喜欢，觉得真的学到东西（比如本科线性代数/机器学习/所有编程课程等，我也不希望忘记这些知识，当然只是不希望忘记，最后还是忘了不少）。
+## 博客内容
 
-另外，我既然选择花时间去写这一份博客，我肯定不想随便应付的，我是真想记录下来所以才写的。因此我会按照我的思路去重新整理。
-
-## 目录
-
-- [时间复杂度入门 - 什么是 P 问题](./docs/complexity_intro_cn.md)
+- [NP-is-not-that-Hard](./NP-is-not-that-Hard/README-CN.md)
+- [What is IO?](./what-is-io/README-CN.md)
+- Build a Reactor Server from scratch
+  - [Build a Epoll First](./reactor-server/work_epoll.md)
+  - [Build a Reactor Server](./reactor-server/work_reactor.md)
+- [Apache-and-Nginx](./Apache-and-Nginx/README-CN.md)
+- [what is git? how to use git?](./how-to-use-git/)
+- [docker](./docker-column/)

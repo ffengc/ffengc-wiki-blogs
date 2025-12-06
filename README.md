@@ -1,20 +1,22 @@
-# NP-is-not-that-Hard
-
+# BLOGS
 
 [中文](./README-CN.md) | [English](./README.md)
 
-> CSDN Blog: [https://blog.csdn.net/Yu_Cblog](https://blog.csdn.net/Yu_Cblog)
+## Author's Note
 
-## Why I Wanted to Write This Blog
+I actually started blogging about four or five years ago, when I first started university. Most of my previous blog posts were on the CSDN platform: [https://blog.csdn.net/Yu_Cblog](https://blog.csdn.net/Yu_Cblog)
 
-This is truly paying the price for passion. This is my first year studying in the US, and CSCI570 is a required course. This course is really difficult. From the initial Matching Theory to dynamic programming, network flow problems, and so on, I've summarized my notes and the code I used while learning in [this repository](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC). At the end of the semester, we started learning Tractability & Computational Compleity Classes, so we began to encounter concepts such as P/NP/NP-complete/NP-hard.
+Now I'm gradually organizing them into this repository.
 
-I'd actually encountered and heard of these concepts many years ago, but I never truly understood them before. I just thought they seemed sophisticated and high-class. After completing the CSCI570 course, I truly realized that the algorithms I'd learned over the previous 4-5 years were merely the tip of the iceberg in this field. Furthermore, this course has deepened my passion for algorithms.
+I will also complete the author's note section later.
 
-Today, I'm starting this blog to record the NP-related content. I really learned a lot from CSCI570. During my undergraduate studies, or in some other courses, I didn't really care about forgetting what I learned. But with this course, I really don't want to forget this knowledge. I rarely rate a course highly unless I genuinely enjoy it and feel I've truly learned something (for example, undergraduate linear algebra/machine learning/all programming courses, I don't want to forget that knowledge either—of course, it's just a matter of not wanting to forget, and I still end up forgetting quite a bit).
+## Blog content
 
-Furthermore, since I've chosen to spend time writing this blog, I certainly don't want to do it carelessly. I genuinely want to record it, which is why I'm writing it. Therefore, I will reorganize it according to my own ideas.
-
-## Table of Contents
-
-- [Introduction to Time Complexity – What Are P Problems?](./docs/complexity_intro_cn.md)
+- [NP-is-not-that-Hard](./NP-is-not-that-Hard/README-CN.md)
+- [What is IO?](./what-is-io/README-CN.md)
+- Build a Reactor Server from scratch 
+  - [Build a Epoll First](./reactor-server/work_epoll.md) 
+  - [Build a Reactor Server](./reactor-server/work_reactor.md)
+- [Apache-and-Nginx](./Apache-and-Nginx/README-CN.md)
+- [what is git? how to use git?](./how-to-use-git/)
+- [docker](./docker-column/)

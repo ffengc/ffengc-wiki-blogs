@@ -1,5 +1,7 @@
 # NP-is-not-that-Hard
 
+[中文](./REAMD-CN.md) | [English](./README.md)
+
 > CSDN博客: [https://blog.csdn.net/Yu_Cblog](https://blog.csdn.net/Yu_Cblog)
 
 ## 为什么我想写这一篇博客

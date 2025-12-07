@@ -6,15 +6,7 @@
   - [Basic Concepts in Computational Complexity](#basic-concepts-in-computational-complexity)
     - [Why do we emphasize poly-time?](#why-do-we-emphasize-poly-time)
   - [P Problems](#p-problems)
-    - [Classic poly-time algorithm examples](#classic-poly-time-algorithm-examples)
-    - [**1. Dijkstra Shortest Path (Non-negative weights)**](#1-dijkstra-shortest-path-non-negative-weights)
-    - [**2. Maximum Flow**](#2-maximum-flow)
-    - [**3. Minimum Spanning Tree (MST)**](#3-minimum-spanning-tree-mst)
   - [Pseudo-Polynomial Time](#pseudo-polynomial-time)
-    - [**Classic Example: 0/1 Knapsack DP**](#classic-example-01-knapsack-dp)
-    - [Why is it *not* polynomial?](#why-is-it-not-polynomial)
-    - [A more intuitive explanation](#a-more-intuitive-explanation)
-    - [Example table](#example-table)
   - [Weakly Polynomial Time](#weakly-polynomial-time)
   - [Strongly Polynomial Time](#strongly-polynomial-time)
   - [Final Comparison Table](#final-comparison-table)
@@ -79,13 +71,11 @@ for some constant $k$.
 > Note: **the *problem* is in P**, not the algorithm.  
 > A problem is in P *because* it has some poly-time algorithm.
 
----
 
-### Classic poly-time algorithm examples
+**Classic poly-time algorithm examples**
 
----
 
-### **1. Dijkstra Shortest Path (Non-negative weights)**
+**1. Dijkstra Shortest Path (Non-negative weights)**
 
 - Code: [Graph.hpp](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC/blob/main/Lecture2-BFS-DFS-Graph/Graph.hpp)
 - Running time:  
@@ -95,7 +85,7 @@ for some constant $k$.
 
 ---
 
-### **2. Maximum Flow**
+**2. Maximum Flow**
 
 - Notes: [Network Flow](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC/blob/main/Lecture9-Network-Flow/Note.md)
 
@@ -111,7 +101,7 @@ Thus, **Max Flow** is also a P problem.
 
 ---
 
-### **3. Minimum Spanning Tree (MST)**
+**3. Minimum Spanning Tree (MST)**
 
 - Code: [Graph.hpp](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC/blob/main/Lecture2-BFS-DFS-Graph/Graph.hpp)
 - Kruskal / Prim run in: $O(m \log n)$
@@ -132,7 +122,7 @@ The best example comes from dynamic programming.
 
 ---
 
-### **Classic Example: 0/1 Knapsack DP**
+**Classic Example: 0/1 Knapsack DP**
 
 (570 course notes: [DP Part 1](https://github.com/ffengc/CSCI570-Analysis-of-Algorithms-USC/tree/main/Lecture7-DP-part1))  
 (Carl’s tutorial: [01 Knapsack](https://programmercarl.com/背包理论基础01背包-1.html))
@@ -150,7 +140,7 @@ Where:
 
 ---
 
-### Why is it *not* polynomial?
+**Why is it *not* polynomial?**
 
 Because $W = 10^9$ only needs 30 bits to represent—but the DP must run *one billion steps*.
 
@@ -158,7 +148,7 @@ Thus it is not poly-time.
 
 ---
 
-### A more intuitive explanation
+**A more intuitive explanation**
 
 You asked:
 
@@ -174,7 +164,7 @@ This disconnect between “input length” and “DP table size” makes it pseu
 
 ---
 
-### Example table
+**Example table**
 
 | W | bit-length | DP Time | Feasible? |
 |---|------------|----------|-----------|

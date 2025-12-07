@@ -9,8 +9,8 @@
   - [Build a Epoll First](./reactor-server/work_epoll.md) 
   - [Build a Reactor Server](./reactor-server/work_reactor.md)
 - [Apache-and-Nginx (Chinese Only)](./Apache-and-Nginx/Apache-and-Nginx.md)
-- [what is git? how to use git? (Chinese Only)](./how-to-use-git/how-to-use-git.html)
-- [Docker (Chinese Only)](./docker-column/index.html)
+- [what is git? how to use git? (Chinese Only)](./how-to-use-git/README.md)
+- [Docker (Chinese Only)](./docker-column/README.md)
 
 ## 中文
 - [README](./README-CN.md)
@@ -21,5 +21,5 @@
   - [先编写 Epoll 多路转接模型](./reactor-server/work_epoll.md) 
   - [编写 Reactor 服务器](./reactor-server/work_reactor.md)
 - [Apache 和 Nginx 网络模型](./Apache-and-Nginx/Apache-and-Nginx.md)
-- [从零开始教会你使用 Git](./how-to-use-git/how-to-use-git.html)
-- [从零开始教会你使用 Docker](./docker-column/index.html)
+- [从零开始教会你使用 Git](./how-to-use-git/README.md)
+- [从零开始教会你使用 Docker](./docker-column/README.md)

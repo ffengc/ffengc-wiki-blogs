@@ -1,6 +1,7 @@
 # Summary
 
 ## English
+- [README](./README.md)
 - [NP-is-not-that-Hard](./NP-is-not-that-Hard/README.md)
   - [Introduction to Time Complexity – What Are P Problems?](./NP-is-not-that-Hard/docs/complexity_intro.md)
 - [What is IO? (Chinese Only)](./what-is-io/README-CN.md)
@@ -12,6 +13,7 @@
 - [Docker (Chinese Only)](./docker-column/index.html)
 
 ## 中文
+- [README](./README-CN.md)
 - [NP问题，也没这么难嘛](./NP-is-not-that-Hard/README-CN.md)
   - [时间复杂度入门 - 什么是 P 问题](./NP-is-not-that-Hard/docs/complexity_intro_cn.md)
 - [什么是IO?](./what-is-io/README-CN.md)

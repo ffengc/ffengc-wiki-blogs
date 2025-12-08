@@ -15,6 +15,7 @@ Today, I'm starting this blog to record the NP-related content. I really learned
 
 Furthermore, since I've chosen to spend time writing this blog, I certainly don't want to do it carelessly. I genuinely want to record it, which is why I'm writing it. Therefore, I will reorganize it according to my own ideas.
 
-## Table of Contents
+## HTML Version Link: Table of Contents
 
-- [Introduction to Time Complexity – What Are P Problems?](./docs/complexity_intro_cn.md)
+- [Introduction to Time Complexity – What Are P Problems?](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro.html)
+- [Complexity Categories](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions.html)

@@ -14,6 +14,7 @@
 
 另外，我既然选择花时间去写这一份博客，我肯定不想随便应付的，我是真想记录下来所以才写的。因此我会按照我的思路去重新整理。
 
-## 目录
+## HTML版本目录
 
-- [时间复杂度入门 - 什么是 P 问题](./docs/complexity_intro_cn.md)
+- [时间复杂度入门 - 什么是 P 问题](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro_cn.html)
+- [复杂度类别](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions_cn.html)

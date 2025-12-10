@@ -5,6 +5,7 @@
 - [NP-is-not-that-Hard](./NP-is-not-that-Hard/README.md)
   - [Introduction to Time Complexity – What Are P Problems?](./NP-is-not-that-Hard/docs/complexity_intro.md)
   - [Complexity Categories](./NP-is-not-that-Hard/docs/the_definitions.md)
+  - [Polynomial-Time Reductions and the Foundations of NP-Completeness](./NP-is-not-that-Hard/docs/reductions.md)
 - [What is IO? (Chinese Only)](./what-is-io/README-CN.md)
 - Build a Reactor Server from scratch (Chinese Only)
   - [Build a Epoll First](./reactor-server/work_epoll.md) 
@@ -18,6 +19,7 @@
 - [NP问题，也没这么难嘛](./NP-is-not-that-Hard/README-CN.md)
   - [时间复杂度入门 - 什么是 P 问题](./NP-is-not-that-Hard/docs/complexity_intro_cn.md)
   - [复杂度类别](./NP-is-not-that-Hard/docs/the_definitions_cn.md)
+  - [多项式规约与 NP 完全性的基础](./NP-is-not-that-Hard/docs/reductions_cn.md)
 - [什么是IO?](./what-is-io/README-CN.md)
 - 从零开始编写一个 Reactor 服务器
   - [先编写 Epoll 多路转接模型](./reactor-server/work_epoll.md) 

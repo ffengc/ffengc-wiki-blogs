@@ -17,5 +17,6 @@ Furthermore, since I've chosen to spend time writing this blog, I certainly don'
 
 ## HTML Version Link: Table of Contents
 
-- [Introduction to Time Complexity – What Are P Problems?](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro.html)
-- [Complexity Categories](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions.html)
+- Chapter 1: [Introduction to Time Complexity – What Are P Problems?](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro.html)
+- Chapter 2: [Complexity Categories](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions.html)
+- Chapter 3: [Polynomial-Time Reductions and the Foundations of NP-Completeness](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/reductions.html)

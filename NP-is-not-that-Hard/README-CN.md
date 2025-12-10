@@ -16,5 +16,6 @@
 
 ## HTML版本目录
 
-- [时间复杂度入门 - 什么是 P 问题](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro_cn.html)
-- [复杂度类别](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions_cn.html)
+- 第一章: [时间复杂度入门 - 什么是 P 问题](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/complexity_intro_cn.html)
+- 第二章: [复杂度类别](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions_cn.html)
+- 第三章: [多项式规约与 NP 完全性的基础](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/reductions_cn.html)

@@ -20,3 +20,4 @@
 - 第二章: [复杂度类别](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/the_definitions_cn.html)
 - 第三章: [多项式规约与 NP 完全性的基础](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/reductions_cn.html)
 - 第四章: [旅行商问题和汉密尔顿环](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/tsp_hc_cn.html)
+- 第五章: [近似算法与线性规划](https://ffengc.github.io/ffengc-wiki-blogs/NP-is-not-that-Hard/docs/approx_lp_cn.html)
